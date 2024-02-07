@@ -1,6 +1,11 @@
 {
-  "event": {
-    "id": 1,
-    "status": "success"
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
 }
