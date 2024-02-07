@@ -1,1 +1,6 @@
-{event}
+{
+  "event": {
+    "id": 1,
+    "status": "success"
+  }
+}
